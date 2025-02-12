@@ -14,12 +14,6 @@ Mobile Version:
 
 ![Screenshot](https://github.com/user-attachments/assets/cd73a9bd-a230-495e-a70e-e4ad8f788250)
 
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ### Built with
 
 - Semantic HTML5 markup
