@@ -7,10 +7,10 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Screenshot
 
 Desktop Version:
-![alt text](image.png)
+![Screenshot](https://github.com/user-attachments/assets/67e90ba7-5d82-442b-8406-efb88dfe3a5b)
 
 Mobile Version:
-![alt text](image-1.png)
+![Screenshot](https://github.com/user-attachments/assets/20559ce4-838c-4780-8718-04e0fc3b8973)
 
 ### Links
 
